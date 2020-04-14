@@ -1,9 +1,9 @@
 # Compiled class file
 *.class
-desktop.ini
 
 # Log file
 *.log
+desktop.ini
 
 # BlueJ files
 *.ctxt
@@ -31,4 +31,8 @@ build/
 nbbuild/
 dist/
 nbdist/
+
+# Eclipse
+.settings/
+
 
